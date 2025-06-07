@@ -12,7 +12,7 @@ I started with basics of the array . I have did 7 problems regarding arrays like
 7)Linear Search
 Day2:
 Today I started with the some more problems of dsa . Today I have done some more easy level sums .
-1)Find the number that appears once
+1)Find the number that appears once\n
 2)Left Rotate an array by oneplace
 3)Remove duplicatesfromSorteda
 4)Left rotate by d places
