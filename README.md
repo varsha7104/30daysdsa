@@ -20,3 +20,21 @@ Today I started with the some more problems of dsa . Today I have done some more
 5)Right Rotate by d places <br>
 6)Move zeroes to the end <br>
 7)Missing number in the array <br>
+Day 3:
+Today I practiced the binary search . The many variations of the problems related to the binary search <br>
+1)Binary Search to find X in sorted array <br>
+2)Implement Lower Bound <br>
+3)Implement Upper Bound <br>
+4)Search Insert Position <br>
+5)Floor/Ceil in Sorted Array <br>
+6)Find the first or last occurrence of a given number in a sorted array <br>
+7)Count occurrences of a number in a sorted array with duplicates <br><br>
+Day 6:<br>
+Today I practiced in basics of the recursion<br>
+1)Generate all binary strings<br>
+2)Generate all binary strings with no consecutive ones<br>
+3)Generate Paranthesis<br>
+4)Print all subsequences/Power Set<br>
+5)Check if there exists a subsequence with sum K<br>
+6)Combination Sum<br>
+7)Combination Sum-II<br>
